@@ -1,4 +1,4 @@
 # apnaco
 Apna College
 <br>
-Author-Kedar Maheta
+Author-Kedar Maheta MSU
